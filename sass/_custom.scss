@@ -1,0 +1,50 @@
+.navbar {
+  margin-bottom: 0;
+  .fa {
+    font-size: 30px;
+  }
+}
+
+.showCase {
+  background: url(../img/head.png) no-repeat top center !important;
+  background-size: 95% auto;
+  height: 900px;
+}
+
+h1 {
+  font-size: 72px;
+  font-family: 'Exo', sans-serif;
+  text-align: center;
+}
+
+.stereo {
+  margin-bottom: 30px;
+  text-align: top;
+
+  h1 {
+    margin: 0;
+    background: $main-color;
+    margin-bottom: 15px;
+  }
+
+  img {
+    padding-top: 21px;
+  }
+}
+
+.footer {
+  text-align: center;
+  background-color: $main-color;
+  height: 100px;
+  padding-top: 25px;
+
+  li {
+    display: inline;
+    style: none;
+    padding-right: 20px;
+  }
+
+  a {
+    color: #ffffff !important;
+  }
+}
